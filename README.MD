@@ -5,5 +5,7 @@
 ### 运行
 
 > npm i
+
 > npm link
+
 > cli create <your-node-project-name>
