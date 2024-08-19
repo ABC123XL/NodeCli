@@ -1,5 +1,5 @@
 {
-  "name": "cli",
+  "name": "nodecli",
   "version": "1.0.0",
   "main": "bin/nodeCli.js",
   "bin": "bin/nodeCli.js",
